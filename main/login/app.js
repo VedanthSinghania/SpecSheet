@@ -7,7 +7,8 @@ sign_up_btn.addEventListener('click', () =>{
     container.classList.add("sign-up-mode");
 });
 login_btn.addEventListener('click',() =>{
-    console.log("hello world")
+    console.log("hello world");
+    window.location.href = "./dahbboad.html";
 })
 
 sign_in_btn.addEventListener('click', () =>{
