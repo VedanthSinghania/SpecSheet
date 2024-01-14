@@ -8,7 +8,7 @@ sign_up_btn.addEventListener('click', () =>{
 });
 login_btn.addEventListener('click',() =>{
     console.log("hello world");
-    window.location.href = "./dahbboad.html";
+    window.location.href = "../dashboad/dashboad.html";
 })
 
 sign_in_btn.addEventListener('click', () =>{
